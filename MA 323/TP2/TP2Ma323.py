@@ -124,7 +124,7 @@ def SolutionLaxW(h,N,tau,c):
 
 #Définitions des t, h et tau
 Tmax=2
-Cas = [[0.01,0.02],[0.002,0.005],[0.002,0.002],[0.005,0.0002]]
+Cas = [[0.02,0.01],[0.002,0.005],[0.002,0.002],[0.005,0.0002]]
 Lt = [0,1,2]
 
 #Explicite centré
